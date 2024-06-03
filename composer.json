@@ -1,0 +1,19 @@
+{
+    "name": "oladesoftware/universalmarks",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Oladesoftware\\Universalmarks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olade Software",
+            "email": "contact@oladesoftware.com"
+        }
+    ],
+    "require": {
+        "oladesoftware/router": "^1",
+        "oladesoftware/httpcrafter": "^0"
+    }
+}
